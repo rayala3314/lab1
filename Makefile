@@ -1,3 +1,5 @@
+#Raymundo Ayala
+
 all: lab1
 
 summer1: lab1.cpp
